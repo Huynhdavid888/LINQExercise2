@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LINQexercise2/1.0.0": {
+        "runtime": {
+          "LINQexercise2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQexercise2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

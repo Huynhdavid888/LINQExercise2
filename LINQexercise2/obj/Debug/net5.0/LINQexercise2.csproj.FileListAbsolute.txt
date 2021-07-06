@@ -1,0 +1,16 @@
+C:\Users\David\repos\LINQexercise2\LINQexercise2\bin\Debug\net5.0\LINQexercise2.exe
+C:\Users\David\repos\LINQexercise2\LINQexercise2\bin\Debug\net5.0\LINQexercise2.deps.json
+C:\Users\David\repos\LINQexercise2\LINQexercise2\bin\Debug\net5.0\LINQexercise2.runtimeconfig.json
+C:\Users\David\repos\LINQexercise2\LINQexercise2\bin\Debug\net5.0\LINQexercise2.runtimeconfig.dev.json
+C:\Users\David\repos\LINQexercise2\LINQexercise2\bin\Debug\net5.0\LINQexercise2.dll
+C:\Users\David\repos\LINQexercise2\LINQexercise2\bin\Debug\net5.0\ref\LINQexercise2.dll
+C:\Users\David\repos\LINQexercise2\LINQexercise2\bin\Debug\net5.0\LINQexercise2.pdb
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.csproj.AssemblyReference.cache
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.AssemblyInfoInputs.cache
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.AssemblyInfo.cs
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.csproj.CoreCompileInputs.cache
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.dll
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\ref\LINQexercise2.dll
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.pdb
+C:\Users\David\repos\LINQexercise2\LINQexercise2\obj\Debug\net5.0\LINQexercise2.genruntimeconfig.cache
